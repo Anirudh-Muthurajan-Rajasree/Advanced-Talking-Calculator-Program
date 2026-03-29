@@ -1,0 +1,24 @@
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.exe.config
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.exe
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.pdb
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.AssemblyReference.cache
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Form1.resources
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Form2.resources
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Properties.Resources.resources
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.GenerateResource.cache
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.CoreCompileInputs.cache
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.pdb
+D:\Anirudh Cs\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe.config
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.exe.config
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.exe
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\bin\Release\AnirudhMaths1.pdb
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.AssemblyReference.cache
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Form1.resources
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Form2.resources
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.Properties.Resources.resources
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.GenerateResource.cache
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.CoreCompileInputs.cache
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.pdb
+C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe.config
