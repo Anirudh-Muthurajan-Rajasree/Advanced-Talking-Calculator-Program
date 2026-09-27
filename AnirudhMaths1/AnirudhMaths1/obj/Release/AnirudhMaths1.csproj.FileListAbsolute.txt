@@ -21,4 +21,3 @@ C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths
 C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.csproj.CoreCompileInputs.cache
 C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe
 C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.pdb
-C:\Anirudh HP Probook\Anirudh Cs\Math\Maths function1\AnirudhMaths1\AnirudhMaths1\obj\Release\AnirudhMaths1.exe.config
